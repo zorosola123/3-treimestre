@@ -1,4 +1,4 @@
-# 3-treimestre
+
 Colégio estadual João de Faria Pioli
 Propjeto de pensamento Computacional
 Nome: Matheus Barbosa e Kauã Martins
