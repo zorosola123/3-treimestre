@@ -7,6 +7,4 @@ header,footer{background-color: rgb(188, 236, 236);color: rgb(241, 232, 232);tex
 main{background-color: rgb(255, 251, 6);}
 nav li {text-transform: uppercase;list-style: none; text-decoration: none}
 nav a {color:antiquewhite;list-style: none;text-decoration: none}
-.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; border:rgb(3, 3, 3)2px; padding: 10px;margin: 10px;}
-.SEGUNDOPARAGRAFO {text-align: justify; font-size: 18px;border:rgb(3, 3, 3)2px;padding: 10px; margin: 10px;}
 #TITULOIMAGEM{width: 5%; height: 5%;}
